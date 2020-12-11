@@ -89,5 +89,41 @@
   <ItemGroup>
     <None Include="Resources\red button.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Minecr5aft Forest.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Case 2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ravine 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hardcore_Death.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cave entrance.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TINY Minecraft House.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Minecraft At Night.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Snowy_Tundra.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\end.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\146694__keineintresse__creeper-explosion-sound.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\25421__andrewweathers__receipt.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

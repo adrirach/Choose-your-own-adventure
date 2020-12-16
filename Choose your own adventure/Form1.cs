@@ -10,10 +10,10 @@ using System.Windows.Forms;
 using System.Media;
 namespace Choose_your_own_adventure
 {
-    public partial class Form1 : Form
+    public partial class MineCraft : Form
     {
         int scene = 0;
-        public Form1()
+        public MineCraft()
         {
             InitializeComponent();
             scenes.BackgroundImage = Properties.Resources.Minecraft_Forest;

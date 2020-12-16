@@ -1,6 +1,6 @@
 ﻿namespace Choose_your_own_adventure
 {
-    partial class Form1
+    partial class MineCraft
     {
         /// <summary>
         /// Required designer variable.
@@ -128,7 +128,7 @@
             this.label2.TabIndex = 7;
             this.label2.Text = "A";
             // 
-            // Form1
+            // MineCraft
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -143,8 +143,8 @@
             this.Controls.Add(this.abuttontext);
             this.Controls.Add(this.dbuttontext);
             this.ImeMode = System.Windows.Forms.ImeMode.Off;
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "MineCraft";
+            this.Text = "MineCraft";
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.keydown_1);
             ((System.ComponentModel.ISupportInitialize)(this.scenes)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
